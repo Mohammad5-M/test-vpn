@@ -1,4 +1,4 @@
-from pyrog import main2
+from pyrog import main2,main
 
 from fastapi import FastAPI, Response
 
