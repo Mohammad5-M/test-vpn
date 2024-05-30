@@ -12,5 +12,6 @@ l_o_ch = [
     "@PrivateVPNs",
     "@v2ray_configs_pool",
     "@DeamNet_proxy",
+    "@skiVPN"'
 
 ]
